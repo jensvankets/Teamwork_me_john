@@ -7,3 +7,6 @@ No REALLY, YOU SHOULD READ ME!
 Another addition to the readme file, yaaaaaaaay!
 
 Woow this is magical! (i had to use an exclamation mark)
+
+new line
+new line 2
